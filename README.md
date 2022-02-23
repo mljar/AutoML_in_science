@@ -1,4 +1,4 @@
-# AutoML_in_science
+# AutoML in science
 
 Collected scientific publications using the MLJAR AutoML method
 
